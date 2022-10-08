@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1665150404 source:f:\c\c++project\机房预约系统\main.cpp
+	<iostream>
+	"Identity.h"
+	<fstream>
+	<string>
+	"globalFile.h"
+	"teacher.h"
+	"student.h"
+	"manager.h"
+
+1665149896 source:f:\c\c++project\机房预约系统\student.cpp
+	"student.h"
+	<fstream>
+	"globalFile.h"
+	"computerRoom.h"
+	"orderFile.h"
+	<map>
+	<string>
+	<vector>
+
+1665139920 f:\c\c++project\机房预约系统\student.h
+	<vector>
+	"computerRoom.h"
+	<iostream>
+	"Identity.h"
+
+1665064876 f:\c\c++project\机房预约系统\identity.h
+	<iostream>
+
+1665134814 source:f:\c\c++project\机房预约系统\manager.cpp
+	<iostream>
+	<fstream>
+	"manager.h"
+	"globalFile.h"
+	"computerRoom.h"
+	<algorithm>
+
+1665066849 source:f:\c\c++project\机房预约系统\teacher.cpp
+	"teacher.h"
+
+1665070462 f:\c\c++project\机房预约系统\teacher.h
+	<iostream>
+	"Identity.h"
+
+1665132229 f:\c\c++project\机房预约系统\manager.h
+	"Identity.h"
+	"student.h"
+	"teacher.h"
+	"computerRoom.h"
+	<vector>
+	<iostream>
+
+1665068196 f:\c\c++project\机房预约系统\globalfile.h
+
+1665132229 f:\c\c++project\机房预约系统\computerroom.h
+	<iostream>
+
+1665149798 source:f:\c\c++project\机房预约系统\orderfile.cpp
+	"orderFile.h"
+	"globalFile.h"
+	<map>
+	<utility>
+	<string>
+
+1665139898 f:\c\c++project\机房预约系统\orderfile.h
+	<iostream>
+	"globalFile.h"
+	<fstream>
+	<map>
+	<string>
+

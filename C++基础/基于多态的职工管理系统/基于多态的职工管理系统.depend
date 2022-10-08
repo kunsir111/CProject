@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1633575207 source:e:\c\基于多态的职工管理系统\main.cpp
+	<iostream>
+	"workerManager.h"
+
+1633575207 e:\c\基于多态的职工管理系统\workermanager.h
+	<iostream>
+
+1633568852 source:e:\c\基于多态的职工管理系统\workermanager.cpp
+	"workerManager.h"
+
+1633570948 source:e:\c\基于多态的职工管理系统\employee.cpp
+	<iostream>
+	"employee.h"
+
+1633571244 e:\c\基于多态的职工管理系统\employee.h
+	<iostream>
+	"worker.h"
+
+1633571244 e:\c\基于多态的职工管理系统\worker.h
+	<iostream>
+	<string>
+
+1633571877 e:\c\基于多态的职工管理系统\manager.h
+	<iostream>
+	"worker.h"
+
+1633572752 source:e:\c\基于多态的职工管理系统\manager.cpp
+	"manager.h"
+
+1633572304 source:e:\c\基于多态的职工管理系统\boss.cpp
+	"boss.h"
+
+1633572304 e:\c\基于多态的职工管理系统\boss.h
+	<iostream>
+	"worker.h"
+
